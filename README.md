@@ -1,6 +1,6 @@
 # Sorting Service
 
-This is a RESTful API service built in **Golang (1.21.5)** using **Gin Gonic** to handle sorting of arrays within a JSON payload. The service supports **parallel processing** for large arrays and **efficient error handling**.
+This is a RESTful API service built in **Golang (1.21)** using **Gin Gonic** to handle sorting of arrays within a JSON payload. The service supports **parallel processing** for large arrays and **efficient error handling**.
 
 ## Features
 - ✅ Sorts arrays of strings and numbers within a JSON payload.
