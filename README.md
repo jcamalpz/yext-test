@@ -13,7 +13,7 @@ This is a RESTful API service built in **Golang (1.22)** using **Gin Gonic** to 
 
 ## Project Structure
 ```
-myapp/
+app/
 │
 ├── main.go
 ├── go.mod
@@ -130,7 +130,4 @@ docker run -p 8080:8080 sorting-service
 [https://github.com/jcamalpz]
 
 ---
-
-## License
-This project is licensed under the MIT License.
 
