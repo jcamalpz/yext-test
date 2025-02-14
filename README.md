@@ -110,7 +110,7 @@ docker run -p 8080:8080 sorting-service
 ---
 
 ## Assumptions & Limitations
-- The service handles **string, float64, and interger types** only within arrays. Other types will trigger an error.
+- The service handles **strings and float64 types** only within arrays. Other types will trigger an error.
 - Sorting is case-sensitive for strings.
 - Arrays with mixed data types are not supported.
 
